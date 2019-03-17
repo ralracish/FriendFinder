@@ -1,0 +1,15 @@
+body {
+    background-image: url("../images/dark-paths.png");
+}
+.jumbotron{
+    margin: 100px 100px 20px 100px;
+    background-color: gray;
+    color:navy;
+}
+h1{
+    color:navy;
+}
+.btn-lg{
+    align-content: center;
+    color: navy;
+}
